@@ -1,0 +1,28 @@
+h1, h2 {
+    color: purple;
+    font-family: monospace;
+    text-align: center;
+}
+
+td {
+    color: darkblue;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid purple;
+}
+
+th {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Gill Sans', sans-serif;
+    border: 2px solid purple;
+}
+
+body {
+  background-color: beige;
+}
+
+
+
